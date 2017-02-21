@@ -1,4 +1,7 @@
 {
+  "scripts": {
+    "build": "grunt icons && grunt sass && grunt cssmin"
+  },
   "devDependencies": {
     "grunt": "^1.0.1",
     "grunt-contrib-cssmin": "^1.0.2",
