@@ -1,2 +1,7 @@
 [project]
-name = Project Name
+name = Frictionless Data Tool Fund
+
+[servers.manual]
+enabled = yes
+default = yes
+target = ghpages://frictionlessdata/toolfund?cname=toolfund.frictionlessdata.io

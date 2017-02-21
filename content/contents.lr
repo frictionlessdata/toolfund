@@ -1,6 +1,61 @@
-title: Welcome to Project Name!
+title: Frictionless Data Tool Fund
 ---
 body:
 
-This is a basic demo website that shows how to use Lektor for a basic
-website with some pages.
+## What is the Tool Fund?
+
+The Frictionless Data Tool Fund, supported by the Sloan Foundation, provides a one off grant of $5,000 to support individuals or organisations in bootstrapping the implementation of libraries for the Frictionless Data specifications in a range of programming languages.
+
+The fund welcomes submissions of interest from 1st March 2017 until 31st July 2017, or until the grants have been allocated.
+
+## How do I apply?
+
+Please register your interest by completing the following form.
+
+We will go through an internal process of selecting an implementor per language, based on the submissions, and notify all applicants whether they are successful or not. The fund will close on July 31st 2017 or until the grants have been allocated.
+
+## Background
+
+This is part of the Frictionless Data project at Open Knowledge International, where we are addressing issues related to frictions that occur when working with data. We are doing this by developing a set of tools, standards, and best practices built around a Data Package standard, a containerisation format for any kind of data based on existing practices for publishing open-source software.
+
+Last year we convened a working group to progress the Frictionless Data specifications to our first 1.0 release, and we now have an excellent foundation for swift iterations over 2017, and to add further implementations to complement our core libraries.
+
+## What else do I need to know?
+
+At Open Knowledge International, we maintain reference implementations for the specifications in two programming languages: Python and Javascript, and currently have implementations in R and Ruby, stewarded by our technical partners. We want to build on this solid implementations of 1.0 specifications across a range of programming languages and build relationships with implementers that can further improve the specifications and how we implement them.  Having many robust implementations of our specifications will get us closer to our ideal of “frictionless” data transport across a diversity of data applications
+
+- v1.0 specifications
+- Our Python and Javascript libraries exhibit the core functionality desired for working with data via the specifications, and demonstrate the type of functionality we expect implementations in other programming languages to have.
+  - [datapackage-py](https://github.com/frictionlessdata/datapackage-py)
+  - [datapackage-js](https://github.com/frictinlessdata/datapackage-js)
+  - [jsontableschema-py](https://github.com/frictionlessdata/jsontableschema-py)
+  - [jsontableschema-js](https://github.com/frictionlessdata/jsontableschema-js)
+- Implementation reference documentation
+
+## FAQ
+
+For more questions on the fund, speak directly to us on our [forum](https://discuss.okfn.org/c/frictionless-data) or on our [Gitter chat](https://gitter.im/frictionlessdata/chat)
+
+### Am I eligible to apply?
+The Fund is open to both individuals and organisations who are
+
+### When do I need to complete the work?
+Work will need to be completed within 3 months of the delivery of the grant?
+
+### You already have an R/Ruby/JS/Pyton library, can i still apply?
+No. We are only able to support a single implementation of the libraries per languarge.
+
+### My programming language of choice is not included in the list. Can I still apply?
+Yes, please do. The above list is our initial assessment of high-impact languages for data analysis, but we may have overlooked one or two.
+
+### How will we make our choice?
+We will base our choice on evidence of technical capabilities and also favour applicants who have a particular interest in working with the Frictionless Data Specifications. Also preference will be given to applicants who have an interest working with and maintaining these libraries going forward.
+
+### When is the deadline?
+Expressions of interest should be received by the 1st of April, but this may be extended. The fund will close on the 31st of July 2017.
+
+### What will the agreement look like?
+We will have a Memorandum of Understanding between Open Knowledge International and the Applicant, based on some agreed deliverables derived from the Implementation reference documentation
+
+### How will Open Knowledge International support me in the work?
+One of the reasons that we are initiating this is to further improve the specifications and how we implement them. Our developers will be on hand to work closely with you as you complete the work. Further to this we announce implementers as technical partners on the project website and will be happy to support you by promoting your organization's work through our blog and network channels.

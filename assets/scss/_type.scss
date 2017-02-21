@@ -1,0 +1,26 @@
+$base-font-family: 'Raleway', sans-serif;
+$base-font-size: 1em;
+$base-line-height: 1.5;
+$heading-line-height: 1.2;
+
+body {
+  color: $primary;
+  font-family: $base-font-family;
+  font-size: $base-font-size;
+  line-height: $base-line-height;
+  font-weight: 400;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  line-height: $heading-line-height;
+  font-weight: 600;
+}
+
+strong,
+b {
+  font-weight: 600;
+}
+
+a {
+  color: $accent;
+}
