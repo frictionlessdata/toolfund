@@ -4,9 +4,9 @@ body:
 
 ## What is the Tool Fund?
 
-The Frictionless Data Tool Fund, supported by the Sloan Foundation, provides a one off minigrant of $5,000 to support individuals or organisations in bootstrapping the implementation of libraries for the Frictionless Data specifications in a range of programming languages. 
+The Frictionless Data Tool Fund, supported by the Sloan Foundation, is providing a number of minigrants of $5,000 to support individuals or organisations in bootstrapping the implementation of libraries for the Frictionless Data specifications in a range of programming languages. 
 
-The fund welcomes submissions of interest from 1st March 2017 until 31st July 2017, or until the grants have been allocated.
+The fund welcomes submissions of interest from 1st March 2017 until 31st July 2017, or until the grants have been allocated. Entires will accepted, reviewed and awarded continuously so do not delay your application. 
 
 ## How do I apply?
 
@@ -33,6 +33,21 @@ At Open Knowledge International, we maintain reference implementations for the s
 ## FAQ
 
 For more questions on the fund, speak directly to us on our [forum](https://discuss.okfn.org/c/frictionless-data) or on our [Gitter chat](https://gitter.im/frictionlessdata/chat)
+
+### What langauges are you interested in adding?
+
+We have an initial list of langages we would like to consider which is included below, but if you do not see your preferred langauge here, please dont let this stop you applying as we will consider and award grants to others.  
+
+- Go
+- PHP
+- Java
+- C#
+- Swift
+- C++
+- Perl
+- Matlab
+- Clojure
+- R
 
 ### Am I eligible to apply?
 
