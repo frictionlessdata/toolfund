@@ -26,7 +26,7 @@ At Open Knowledge International, we maintain reference implementations for the s
 - In order to understand if this is for you, please take a close look at our [Implementation reference documentation](http://specs.frictionlessdata.io/implementation/) and v1.0 [specifications](http://specs.frictionlessdata.io/)
 - Our Python and Javascript libraries exhibit the core functionality desired for working with data via the specifications, and demonstrate the type of functionality we expect implementations in other programming languages to have.
   - [datapackage-py](https://github.com/frictionlessdata/datapackage-py)
-  - [datapackage-js](https://github.com/frictinlessdata/datapackage-js)
+  - [datapackage-js](https://github.com/frictionlessdata/datapackage-js)
   - [jsontableschema-py](https://github.com/frictionlessdata/jsontableschema-py)
   - [jsontableschema-js](https://github.com/frictionlessdata/jsontableschema-js)
 
