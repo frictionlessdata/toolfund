@@ -76,3 +76,7 @@ The minigrant agreement will include a Memorandum of Understanding between Open 
 ### How will Open Knowledge International support me in the work?
 
 One of the reasons that we are initiating this is to further improve the specifications and how we go about implementing them. Our developers will be on hand to work closely with you as you complete the work. We will announce implementers as technical partners on the project website and will be happy to support you by promoting your organization's work through our blog and network channels. 
+
+### I notice that you already have an R library, yet it is listed in the list of suggested libraries. 
+
+We have an R Library which was created by ROpenSci. Given this is such an important language for us we would like to find a partner to build on this work. 
