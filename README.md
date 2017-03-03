@@ -4,4 +4,11 @@ It has a bunch of [dependencies](package.json), so do `npm install` and then `np
 
 `grunt` will watch for changes to your [SCSS files](assets/scss), and also [icons](assets/icons) (see [svgstore](https://github.com/FWeinb/grunt-svgstore)).
 
-`lektor deploy` will deploy to the gh-pages branch, putting changes live, if you have deploy permissions.
+To deploy to the `gh-pages` branch and put the changes live:
+
+```
+lektor build
+lektor deploy
+```
+
+You will need deploy permissions on the repo.
