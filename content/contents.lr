@@ -21,10 +21,10 @@ The Tool Fund is part of the [Frictionless Data](http://frictionlessdata.io/) pr
 Last year we convened a working group to progress the [specifications](http://specs.frictionlessdata.io/) to our first 1.0 release, and we now have an excellent foundation to add further implementations to complement our core libraries.
 ## What else do I need to know?
 
-At Open Knowledge International, we maintain reference implementations for the specifications in two programming languages: Python and Javascript, and currently have implementations in R and Ruby, stewarded by our technical partners. We want to build on this solid implementation of 1.0 specifications across a range of programming languages and work with  implementers to further improve the specifications and how they are implemented in order to get us closer to our ideal of “frictionless” data transport across a diversity of data applications 
+At Open Knowledge International, we maintain reference implementations for the specifications in two programming languages: Python and JavaScript, and currently have implementations in R and Ruby, stewarded by our technical partners. We want to build on this solid implementation of 1.0 specifications across a range of programming languages and work with  implementers to further improve the specifications and how they are implemented in order to get us closer to our ideal of “frictionless” data transport across a diversity of data applications
 
 - In order to understand if this is for you, please take a close look at our [Implementation reference documentation](http://specs.frictionlessdata.io/implementation/) and v1.0 [specifications](http://specs.frictionlessdata.io/)
-- Our Python and Javascript libraries exhibit the core functionality desired for working with data via the specifications, and demonstrate the type of functionality we expect implementations in other programming languages to have.
+- Our Python and JavaScript libraries exhibit the core functionality desired for working with data via the specifications, and demonstrate the type of functionality we expect implementations in other programming languages to have.
   - [datapackage-py](https://github.com/frictionlessdata/datapackage-py)
   - [datapackage-js](https://github.com/frictionlessdata/datapackage-js)
   - [jsontableschema-py](https://github.com/frictionlessdata/jsontableschema-py)
@@ -34,9 +34,9 @@ At Open Knowledge International, we maintain reference implementations for the s
 
 For more questions on the fund, speak directly to us on our [forum](https://discuss.okfn.org/c/frictionless-data) or on our [Gitter chat](https://gitter.im/frictionlessdata/chat)
 
-### What langauges are you interested in adding?
+### What languages are you interested in adding?
 
-We have an initial list of langages we would like to consider which is included below, but if you do not see your preferred langauge here, please dont let this stop you applying as we will consider and award grants to others.  
+We have an initial list of languages we would like to consider which is included below, but if you do not see your preferred language here, please don't let this stop you applying as we will consider and award grants to others.
 
 - Go
 - PHP
@@ -45,7 +45,7 @@ We have an initial list of langages we would like to consider which is included 
 - Swift
 - C++
 - Perl
-- Matlab
+- MATLAB
 - Clojure
 - R
 
@@ -56,8 +56,8 @@ The Fund is open to both individuals and organisations based anywhere in the wor
 ### When do I need to complete the work?
 All work will need to be delivered by the end of 2017
 
-### You already have an R/Ruby/JS/Python library, can i still apply?
-No. We are only able to support a single implementation of the libraries per language. 
+### You already have an R/Ruby/JS/Python library, can I still apply?
+No. We are only able to support a single implementation of the libraries per language.
 
 ### My programming language of choice is not included in the list. Can I still apply?
 Yes, please do. The list included in the from is our initial assessment of high-impact languages, but we may have overlooked one or two and are very keen to explore more options.
@@ -79,4 +79,4 @@ One of the reasons that we are initiating this is to further improve the specifi
 
 ### I notice that you already have an R library, yet it is listed in the list of suggested libraries. 
 
-We have an R Library which was created by ROpenSci. Given this is such an important language for us we would like to find a partner to build on this work. 
+We have an R Library which was created by rOpenSci. Given this is such an important language for us we would like to find a partner to build on this work.
