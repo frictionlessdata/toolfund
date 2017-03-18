@@ -4,15 +4,15 @@ body:
 
 ## What is the Tool Fund?
 
-The Frictionless Data Tool Fund, supported by the Sloan Foundation, is providing a number of minigrants of $5,000 to support individuals or organisations in bootstrapping the implementation of libraries for the Frictionless Data specifications in a range of programming languages. 
+The Frictionless Data Tool Fund, supported by the Sloan Foundation, is providing a number of minigrants of $5,000 to support individuals or organisations in bootstrapping the implementation of libraries for the Frictionless Data specifications in a range of programming languages.
 
-The fund welcomes submissions of interest from 1st March 2017 until 31st July 2017, or until the grants have been allocated. Entries will be accepted, reviewed and awarded continuously so do not delay your application. 
+The fund welcomes submissions of interest from 1st March 2017 until 31st July 2017, or until the grants have been allocated. Entries will be accepted, reviewed and awarded continuously so do not delay your application.
 
 ## How do I apply?
 
 Please register your interest by completing this [form](https://docs.google.com/a/okfn.org/forms/d/1q4dkiSJDPLEAzVhFSV-8ic5bpsEIG8v_ecmlGJNPmS4/edit)
 
-Based on the submissions we will go through an internal process of selecting one implementer per language, and notify all applicants whether they have been successful or not. 
+Based on the submissions we will go through an internal process of selecting one implementer per language, and notify all applicants whether they have been successful or not.
 
 ## Background
 
@@ -51,23 +51,27 @@ We have an initial list of languages we would like to consider which is included
 
 ### Am I eligible to apply?
 
-The Fund is open to both individuals and organisations based anywhere in the world. 
+The Fund is open to both individuals and organisations based anywhere in the world.
 
 ### When do I need to complete the work?
-All work will need to be delivered by the end of 2017
+All work will need to be delivered by the end of 2017.
 
-### You already have an R/Ruby/JS/Python library, can I still apply?
+### You already have an Ruby/JS/Python library, can I still apply?
 No. We are only able to support a single implementation of the libraries per language.
+
+### You already have an R library, yet it is listed among the suggested libraries.
+
+We have an R Library which was created by rOpenSci. Given this is such an important language for us we would like to find a partner to build on this work.
 
 ### My programming language of choice is not included in the list. Can I still apply?
 Yes, please do. The list included in the from is our initial assessment of high-impact languages, but we may have overlooked one or two and are very keen to explore more options.
 
 ### How will we make our choice?
-We will base our choice on evidence of technical capabilities and also favour applicants who demonstrate an interest in practical use of the Frictionless Data Specifications. Preference will also be given to applicants who show an interest working with and maintaining these libraries going forward. 
+We will base our choice on evidence of technical capabilities and also favour applicants who demonstrate an interest in practical use of the Frictionless Data Specifications. Preference will also be given to applicants who show an interest working with and maintaining these libraries going forward.
 
 ### When is the deadline?
 
-Expressions of interest should be received by the 31st of July 2017. 
+Expressions of interest should be received by the 31st of July 2017.
 
 ### What will the agreement look like?
 
@@ -75,8 +79,4 @@ The minigrant agreement will include a Memorandum of Understanding between Open 
 
 ### How will Open Knowledge International support me in the work?
 
-One of the reasons that we are initiating this is to further improve the specifications and how we go about implementing them. Our developers will be on hand to work closely with you as you complete the work. We will announce implementers as technical partners on the project website and will be happy to support you by promoting your organization's work through our blog and network channels. 
-
-### I notice that you already have an R library, yet it is listed in the list of suggested libraries. 
-
-We have an R Library which was created by rOpenSci. Given this is such an important language for us we would like to find a partner to build on this work.
+One of the reasons that we are initiating this is to further improve the specifications and how we go about implementing them. Our developers will be on hand to work closely with you as you complete the work. We will announce implementers as technical partners on the project website and will be happy to support you by promoting your organization's work through our blog and network channels.
