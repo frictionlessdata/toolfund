@@ -1,7 +1,10 @@
 [project]
 name = Frictionless Data Tool Fund
 
-[servers.manual]
+[servers.s3]
+name = S3
 enabled = yes
-default = yes
-target = ghpages://frictionlessdata/toolfund?cname=toolfund.frictionlessdata.io
+target = s3://toolfund.frictionlessdata.io
+
+[packages]
+lektor-s3 = 0.4.0
