@@ -17,6 +17,8 @@ install:
 script:
 - lektor build
 deploy:
+  on:
+    branch: master
   provider: script
   script: lektor deploy s3
 env:
