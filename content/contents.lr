@@ -54,6 +54,8 @@ Grants in the following languages have been awarded:
 | R       | [Open Knowledge Greece](http://frictionlessdata.io/articles/open-knowledge-greece/) | [datapackage-r](https://github.com/frictionlessdata/datapackage-r)       | [tableschema-r](https://github.com/frictionlessdata/tableschema-r)       |
 | Clojure | [Matt Thompson](http://frictionlessdata.io/articles/matt-thompson/)                 | [datapackage-clj](https://github.com/frictionlessdata/datapackage-clj)   | [tableschema-clj](https://github.com/frictionlessdata/tableschema-clj)   |
 | Julia   | [Oleg Lavrovsky](http://frictionlessdata.io/articles/oleg-lavrovsky/)               | [datapackage-jl](https://github.com/frictionlessdata/datapackage-jl)     | [tableschema-jl](https://github.com/frictionlessdata/tableschema-jl)     |
+{: .table .table-striped .table-bordered style="display: block; overflow: auto;"}
+
 ### Am I eligible to apply?
 
 The Fund is open to both individuals and organisations based anywhere in the world.
