@@ -42,7 +42,7 @@ Expressions of interest should be received by the 15th of April 2019.
 While the call for tools is purposefully broad, here are some examples of the types of tools our team would be interested in seeing:
 - Integrating Frictionless Data (e.g. data packages) into tools researchers currently use (like Excel, Google Sheets, Matlab)
 - Integrations with tools or other file systems that handle big(ger) data
-- Building upon the metadata in datapackage creator (for example, adding ORCIDs, persistent identifiers/URIs, etc.)
+- Building upon the metadata in <a href = "http://create.frictionlessdata.io/" target="_blank">data package creator</a> (for example, adding ORCIDs, persistent identifiers/URIs, etc.)
 
 ### What deliverables will I be responsible for creating?
 
