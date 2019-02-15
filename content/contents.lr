@@ -4,7 +4,7 @@ body:
 
 ## What is the Tool Fund?
 
-The Frictionless Data Tool Fund, supported by the Sloan Foundation, is providing a number of mini-grants of $5,000 to support individuals or organisations in developing an open tool for reproducible science or research built using the Frictionless Data specifications and software. We welcome submissions of interest from 12th Feb 2019 until 15th April 2019.
+The Frictionless Data Tool Fund, supported by the Sloan Foundation, is providing a number of mini-grants of $5,000 to support individuals or organisations in developing an open tool for reproducible science or research built using the Frictionless Data specifications and software. We welcome submissions of interest from 15th Feb 2019 until 30th April 2019.
 
 ## How do I apply?
 
@@ -12,10 +12,18 @@ Please apply using this <a href = "https://docs.google.com/forms/d/e/1FAIpQLSdRS
 
 ## Background
 
-The Tool Fund is part of the <a href="http://frictionlessdata.io/reproducible-research/" target="_blank">Frictionless Data for Reproducible Research</a> project at <a href="https://okfn.org" target="_blank">Open Knowledge International</a> and funded by the Sloan Foundation, where we are addressing issues related to frictions that occur when working with research data. Our current focus is applying Frictionless Data specifications and software to reproducible research across a range of scientific disciplines.  We are doing this by continuing to develop a set of <a href="http://frictionlessdata.io/tools/" target="_blank">tools</a>, <a href="http://frictionlessdata.io/specs/" target="_blank">standards</a>, and <a href="http://frictionlessdata.io/guides/" target="_blank">best practices</a> built around the <a href="http://frictionlessdata.io/guides/data-package/" target="_blank">Data Package</a> standard, a containerisation format for any kind of data based on existing practices for publishing open-source software. 
+The Tool Fund is part of the <a href="http://frictionlessdata.io/reproducible-research/" target="_blank">Frictionless Data for Reproducible Research</a> project at <a href="https://okfn.org" target="_blank">Open Knowledge International</a>. This project, funded by the Sloan Foundation, applies our work in Frictionless Data to data-driven research disciplines, in order to facilitate data workflows in research contexts. At its core, Frictionless Data is a set of <a href="http://frictionlessdata.io/specs/" target="_blank">specifications</a> for data and metadata interoperability, accompanied by a collection of <a href="http://frictionlessdata.io/software/" target="_blank">software libraries</a> that implement these specifications, and a range of best practices for data management. The core specification, the <a href="http://frictionlessdata.io/guides/data-package/" target="_blank">Data Package</a>, is a simple and practical “container” for data and metadata. 
 
 ## What else do I need to know?
 
+The Frictionless Data team has created a suite of open source software tools and specifications to shorten the path from data to insight. We want to build upon these existing tools and work with implementers to further improve the specifications in order to get us closer to our ideal of “frictionless” research data. In order to understand if this tool fund is for you, please take a close look at our existing tooling, software, and specs:
+- <a href="https://github.com/frictionlessdata" target="_blank">Github</a>
+- <a href="https://frictionlessdata.io/specs/" target="_blank">Specifications</a>
+- <a href="https://frictionlessdata.io/software/" target="_blank">Software</a>
+- <a href="http://try.goodtables.io/" target="_blank">Goodtables data validator tool</a>
+- <a href="http://create.frictionlessdata.io/" target="_blank">Data package creator tool</a>
+- <a href="https://github.com/frictionlessdata/datapackage-pipelines" target="_blank">Datapackage pipelines</a>
+- <a href="https://frictionlessdata.io/docs/" target="_blank">Documentation</a>
 
 ## FAQ
 
@@ -35,7 +43,7 @@ We will base our choice on evidence of technical capabilities and also favour ap
 
 ### When is the deadline?
 
-Expressions of interest should be received by the 15th of April 2019.
+Expressions of interest should be received by the 30th of April 2019.
 
 ### Are there any examples of the types of tools that would make good projects?
 
