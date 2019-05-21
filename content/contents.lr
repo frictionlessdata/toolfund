@@ -12,7 +12,7 @@ Please apply using this <a href = "https://docs.google.com/forms/d/e/1FAIpQLSdRS
 
 ## Background
 
-The Tool Fund is part of the <a href="http://frictionlessdata.io/reproducible-research/" target="_blank">Frictionless Data for Reproducible Research</a> project at <a href="https://okfn.org" target="_blank">Open Knowledge International</a>. This project, funded by the Sloan Foundation, applies our work in Frictionless Data to data-driven research disciplines, in order to facilitate data workflows in research contexts. At its core, Frictionless Data is a set of <a href="http://frictionlessdata.io/specs/" target="_blank">specifications</a> for data and metadata interoperability, accompanied by a collection of <a href="http://frictionlessdata.io/software/" target="_blank">software libraries</a> that implement these specifications, and a range of best practices for data management. The core specification, the <a href="http://frictionlessdata.io/guides/data-package/" target="_blank">Data Package</a>, is a simple and practical “container” for data and metadata. 
+The Tool Fund is part of the <a href="http://frictionlessdata.io/reproducible-research/" target="_blank">Frictionless Data for Reproducible Research</a> project at <a href="https://okfn.org" target="_blank">Open Knowledge Foundation</a>. This project, funded by the Sloan Foundation, applies our work in Frictionless Data to data-driven research disciplines, in order to facilitate data workflows in research contexts. At its core, Frictionless Data is a set of <a href="http://frictionlessdata.io/specs/" target="_blank">specifications</a> for data and metadata interoperability, accompanied by a collection of <a href="http://frictionlessdata.io/software/" target="_blank">software libraries</a> that implement these specifications, and a range of best practices for data management. The core specification, the <a href="http://frictionlessdata.io/guides/data-package/" target="_blank">Data Package</a>, is a simple and practical “container” for data and metadata. 
 
 ## What else do I need to know?
 
@@ -58,8 +58,8 @@ Besides the main tool you create, you will also produce a blog or screencast of 
 
 ### What will the agreement look like?
 
-The mini-grant agreement will include a Memorandum of Understanding between Open Knowledge International and the Applicant, based on some agreed deliverables derived from the Implementation reference documentation.
+The mini-grant agreement will include a Memorandum of Understanding between Open Knowledge Foundation and the Applicant, based on some agreed deliverables derived from the Implementation reference documentation.
 
-### How will Open Knowledge International support me in the work?
+### How will Open Knowledge Foundation support me in the work?
 
 The main reason we are initiating the tool fund is to create new tools to help researchers. Our developers will be on hand to work closely with you as you complete the work. We will announce implementers as technical partners on the project website and will be happy to support you by promoting your organization's work through our blog and network channels.
