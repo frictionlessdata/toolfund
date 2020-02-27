@@ -4,15 +4,15 @@ body:
 
 ## What is the Tool Fund?
 
-The Frictionless Data Tool Fund, supported by the Sloan Foundation, is providing a number of mini-grants of $5,000 to support individuals or organisations in developing an open tool for reproducible science or research built using the Frictionless Data specifications and software. We welcome submissions of interest from 15th Feb 2019 until 30th April 2019.
+The Frictionless Data Tool Fund, overseen by the [Open Knowledge Foundation](https://okfn.org/) and supported by the Sloan Foundation, is providing mini-grants of $5,000 to support individuals or organisations in developing an open tool for reproducible science or research built using the Frictionless Data specifications and software. We will prioritize tools focusing on the following fields/broad domains of science: biology, genetics, neuroscience, ecology, geology, and bioinformatics. We welcome submissions of interest from 1 March 2020 until 17th May 2020, with projects starting mid-June and to be completed by the end of the year.
 
 ## How do I apply?
 
-Please apply using this <a href = "https://docs.google.com/forms/d/e/1FAIpQLSdRSyuwFK7uIxkiiXVbXDSww3XBD_35jRru1MVzYqpSl6XimA/viewform?usp=sf_link" target="_blank">google form</a>. If you have any questions please email the team at [frictionlessdata@okfn.org](mailto:frictionlessdata@okfn.org) or ask a question on the project’s <a href="https://gitter.im/frictionlessdata/chat" target="_blank">gitter chanel</a>. We value and encourage diversity because a range of experiences and perspectives enriches our work and strengthens our ability to address complex challenges. Applicants from communities that are under-represented in science and technology, people of colour, women, people with disabilities, and LGBTI+ individuals are encouraged to apply.
+Please apply using this <a href = "https://docs.google.com/forms/d/e/1FAIpQLScnHH_jrCIuiq8D32Z6heGsOM3o6yr1wRNZvVmz4RwbU92YoA/viewform?usp=sf_link" target="_blank">google form</a>. If you have any questions please email the team at [frictionlessdata@okfn.org](mailto:frictionlessdata@okfn.org) or ask a question on the project’s <a href="https://gitter.im/frictionlessdata/chat" target="_blank">gitter chanel</a>. We value and encourage diversity because a range of experiences and perspectives enriches our work and strengthens our ability to address complex challenges. Applicants from communities that are under-represented in science and technology, people of colour, women, people with disabilities, and LGBTI+ individuals are encouraged to apply.
 
 ## Background
 
-The Tool Fund is part of the <a href="http://frictionlessdata.io/reproducible-research/" target="_blank">Frictionless Data for Reproducible Research</a> project at <a href="https://okfn.org" target="_blank">Open Knowledge Foundation</a>. This project, funded by the Sloan Foundation, applies our work in Frictionless Data to data-driven research disciplines, in order to facilitate data workflows in research contexts. At its core, Frictionless Data is a set of <a href="http://frictionlessdata.io/specs/" target="_blank">specifications</a> for data and metadata interoperability, accompanied by a collection of <a href="http://frictionlessdata.io/software/" target="_blank">software libraries</a> that implement these specifications, and a range of best practices for data management. The core specification, the <a href="http://frictionlessdata.io/guides/data-package/" target="_blank">Data Package</a>, is a simple and practical “container” for data and metadata. 
+The Tool Fund is part of the <a href="http://frictionlessdata.io/reproducible-research/" target="_blank">Frictionless Data for Reproducible Research</a> project at <a href="https://okfn.org" target="_blank">Open Knowledge Foundation</a>. This project, funded by the Sloan Foundation, applies our work in Frictionless Data to data-driven research disciplines, in order to facilitate data workflows in research contexts. At its core, Frictionless Data is a set of <a href="http://frictionlessdata.io/specs/" target="_blank">specifications</a> for data and metadata interoperability, accompanied by a collection of <a href="http://frictionlessdata.io/software/" target="_blank">software libraries</a> that implement these specifications, and a range of best practices for data management. The core specification, the <a href="http://frictionlessdata.io/guides/data-package/" target="_blank">Data Package</a>, is a simple and practical “container” for data and metadata. For examples of successful projects, read about the 2019 Tool Fund Grantees [here](https://blog.okfn.org/2019/07/04/meet-our-2019-frictionless-data-tool-fund-grantees/).
 
 ## What else do I need to know?
 
@@ -35,22 +35,19 @@ The Fund is open to both individuals and organisations based anywhere in the wor
 
 ### When do I need to complete the work?
 
-All work will need to be delivered by the end of 2019.
+All work will need to be delivered by the end of 2020.
 
 ### How will we make our choice?
 
-We will base our choice on evidence of technical capabilities and also favour applicants who demonstrate an interest in practical use of the Frictionless Data Specifications. Preference will also be given to applicants who show an interest working with and maintaining these tools going forward.
+We will base our choice on evidence of technical capabilities and also favour applicants who demonstrate an interest in practical use of the Frictionless Data Specifications. Preference will also be given to applicants who show an interest in working with and maintaining these tools going forward. We will prioritize tools focusing on the following fields/domains of science: biology, genetics, neuroscience, ecology, geology, and bioinformatics. 
 
 ### When is the deadline?
 
-Expressions of interest should be received by the 30th of April 2019.
+[Applications](https://docs.google.com/forms/d/e/1FAIpQLScnHH_jrCIuiq8D32Z6heGsOM3o6yr1wRNZvVmz4RwbU92YoA/viewform?usp=sf_link) should be received by the 17th of May 2020.
 
 ### Are there any examples of the types of tools that would make good projects?
 
-While the call for tools is purposefully broad, here are some examples of the types of tools our team would be interested in seeing:
-- Integrating Frictionless Data (e.g. data packages) into tools researchers currently use (like Excel, Google Sheets, Matlab)
-- Integrations with tools or other file systems that handle big(ger) data
-- Building upon the metadata in <a href = "http://create.frictionlessdata.io/" target="_blank">data package creator</a> (for example, adding ORCIDs, persistent identifiers/URIs, etc.)
+While the call for tools is purposefully broad, here are the Tool Fund grantees that were successful in the last fund: [https://blog.okfn.org/2019/07/04/meet-our-2019-frictionless-data-tool-fund-grantees/](https://blog.okfn.org/2019/07/04/meet-our-2019-frictionless-data-tool-fund-grantees/.)
 
 ### What deliverables will I be responsible for creating?
 
@@ -58,8 +55,8 @@ Besides the main tool you create, you will also produce a blog or screencast of 
 
 ### What will the agreement look like?
 
-The mini-grant agreement will include a Memorandum of Understanding between Open Knowledge Foundation and the Applicant, based on some agreed deliverables derived from the Implementation reference documentation.
+The mini-grant agreement will include a Memorandum of Understanding between Open Knowledge Foundation and the Applicant, based on agreed deliverables. All deliverables will be openly licensed.
 
 ### How will Open Knowledge Foundation support me in the work?
 
-The main reason we are initiating the tool fund is to create new tools to help researchers. Our developers will be on hand to work closely with you as you complete the work. We will announce implementers as technical partners on the project website and will be happy to support you by promoting your organization's work through our blog and network channels.
+The main reason we are initiating the tool fund is to create new tools to help researchers. Our developers will be on hand to work closely with you as you complete the work if you need additional help. Besides the $5000 grant, we will also announce implementers as technical partners on the project website and will be happy to support you by promoting your organization's work through our blog and network channels.
