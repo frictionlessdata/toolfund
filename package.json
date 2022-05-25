@@ -3,7 +3,7 @@
     "build": "grunt icons && grunt sass && grunt cssmin"
   },
   "devDependencies": {
-    "grunt": "^1.3.0",
+    "grunt": "^1.5.3",
     "grunt-contrib-cssmin": "^3.0.0",
     "grunt-contrib-sass": "^1.0.0",
     "grunt-contrib-watch": "^1.0.0",
